@@ -6,7 +6,7 @@ import splashAnimation from "./assets/lottie/splashAnimation";
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 2000 
+  duration: 2000
 };
 
 // Summary And Greeting Section
@@ -105,7 +105,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "git",
       fontAwesomeClassname: "fab fa-git"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -204,7 +204,8 @@ const bigProjects = {
     {
       image: require("./assets/images/ub_bot.png"),
       projectName: "UB Bot",
-      projectDesc: "Leveraged cutting-edge LangChain technology to perform comprehensive web scraping, collected data from various web pages of UB for a robust similarity search",
+      projectDesc:
+        "Leveraged cutting-edge LangChain technology to perform comprehensive web scraping, collected data from various web pages of UB for a robust similarity search",
       footerLink: [
         {
           name: "Visit",
@@ -215,7 +216,8 @@ const bigProjects = {
     {
       image: require("./assets/images/snake_relearn.jpeg"),
       projectName: "Snake ReLearn",
-      projectDesc: "Changed the classic Snake game using cutting-edge deep reinforcement learning techniques",
+      projectDesc:
+        "Changed the classic Snake game using cutting-edge deep reinforcement learning techniques",
       footerLink: [
         {
           name: "Visit",
@@ -226,7 +228,8 @@ const bigProjects = {
     {
       image: require("./assets/images/colorizer.jpeg"),
       projectName: "Colorizer",
-      projectDesc: "Incorporates deep learning techniques to understand and predict reliable colors for different elements in an image",
+      projectDesc:
+        "Incorporates deep learning techniques to understand and predict reliable colors for different elements in an image",
       footerLink: [
         {
           name: "Visit",
@@ -309,7 +312,7 @@ const achievementSection = {
           url: "https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/"
         }
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -327,7 +330,7 @@ const blogSection = {
       title: "The Art of Feature Engineering: Sculpting Data for Prediction",
       description:
         "Why Feature Engineering is not just a mundane step in machine learning, but a captivating art that adds depth and insight to raw data..."
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
