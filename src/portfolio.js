@@ -19,10 +19,11 @@ const greeting = {
   username: "Hemanth Thaluru",
   title: "Hi all, I'm Hemanth",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web with JavaScript / Angular /Reactjs / Nodejs / .NET and some other cool libraries and frameworks."
+    // "A passionate Full Stack Software Developer 🚀 having an experience of building Web with JavaScript / Angular /Reactjs / Nodejs / .NET and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 with experience in JavaScript, Angular, React.js, Node.js, .NET, and other frameworks. I am enthusiastic about coding and enjoy creating innovative solutions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1MRnkgNpFhFkXO1t5ycoWDUNG3rBLhgAY/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Oc3spDKanYok0cTQDusgsj3UuEZbDLXY/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
