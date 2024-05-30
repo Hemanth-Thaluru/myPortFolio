@@ -23,7 +23,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 with experience in JavaScript, Angular, React.js, Node.js, .NET, and other frameworks. I am enthusiastic about coding and enjoy creating innovative solutions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1jJZadnGJEAFXSGVFUpfBOxdwv9XSLVL0/view?usp=sharing",
+    "https://drive.google.com/file/d/1F6TrlKMmjzKsrAFWYjjuBlIF-y6U23Hi/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
